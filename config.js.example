@@ -1,0 +1,7 @@
+module.exports = {
+  //////////////////////////
+  token:
+    "", //WRITE YOUR BOT TOKEN
+  botStatus: "Charisios C. | charisios.com ", //WRITE YOUR BOT STATUS.
+  //////////////////////////
+};
